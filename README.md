@@ -14,6 +14,11 @@ Welcome to my Data Analytics Portfolio! This repository showcases my projects in
 - **Key Features**: Interactive visualizations, trend metrics, performance insights.
 - **Tools Used**: Tableau, Excel.
 
+### 3. Excel Project: Coffee Sales Data Analysis
+- **Description**: Conducted detailed analysis of coffee sales data to uncover trends, customer preferences, and seasonal performance.
+- **Key Features**: Dynamic Excel dashboards, pivot tables, and advanced charts for actionable insights.
+- **Tools Used**: Advanced Excel (Pivot Tables, Charts, Formulas).
+
 ---
 
 Explore the individual repositories for more details and insights!
